@@ -1,0 +1,149 @@
+nav img,
+a {
+    display: inline;
+}
+
+#inc {
+    margin-left: 70%;
+
+
+}
+
+a {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+nav {
+    border: 1px solid rgb(213, 213, 213);
+    height: 13%;
+    padding: 1%;
+    background-color: #edf3f7;
+}
+
+#VI {
+
+    border: 1px solid #d5dce1b0;
+    border-style: inherit;
+    background-color: #deebf5;
+    margin-right: 10px;
+}
+
+#logo {
+    height: 50px;
+    width: 150px;
+    margin-left: 10px;
+
+
+}
+
+.formulario {
+    width: 30%;
+    margin: auto;
+    margin-top: 4%;
+    margin-block-start: 6%;
+    text-align: center;
+    border: 2px solid rgb(220, 218, 218);
+    padding: 1%;
+    background-color: #e6f0f7b0;
+    border-radius: 2%;
+    font-family: 'Mukta', sans-serif;
+    /* borde y fondo del formulario */
+}
+
+body {
+    background-image: url(Imagenes/fondocelestito.jpg);
+    background-size: cover;
+
+    background-position: center;
+    max-width: 100%;
+}
+
+label {
+    display: block;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+#titulo {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
+
+.input {
+    display: block;
+    border: none;
+    margin-top: 5%;
+}
+
+label {
+    margin-top: 2%;
+}
+
+
+#boton {
+
+    background-color: #2980B9;
+    color: bisque;
+}
+
+
+
+img {
+    width: 30%;
+}
+
+/*logo*/
+
+p {
+    text-align: center;
+}
+
+.pie_pagina {
+    background-color: #e6f0f7b0;
+    margin-top: 1%;
+    height: 10%;
+}
+
+button {
+    margin: auto;
+    border: none;
+    background-color: #e6f0f7b0;
+}
+
+#botonIS {
+    margin: auto;
+    text-align: center;
+    margin-top: 1%;
+}
+
+/* boton iniciar sesion */
+
+#VI {
+    color: rgb(69, 91, 92);
+
+}
+
+/*boton volver a inicio*/
+
+#boton {
+    margin-top: 15%;
+}
+
+/* botón registrarse*/
+
+#iniciarsesion {
+    color: rgb(38, 54, 61);
+    border-color: rgb(38, 54, 61);
+}
+#VP{
+  margin-right: -700px;
+    border: 1px solid #d5dce1b0;
+    border-style: inherit;
+    background-color: #deebf5;
+  color: rgb(69, 91, 92);
+}
